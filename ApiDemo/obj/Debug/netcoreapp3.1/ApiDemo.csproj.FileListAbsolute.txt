@@ -1,0 +1,14 @@
+C:\Repository\CSharp_Projects\ApiDemo\ApiDemo\bin\Debug\netcoreapp3.1\ApiDemo.exe
+C:\Repository\CSharp_Projects\ApiDemo\ApiDemo\bin\Debug\netcoreapp3.1\ApiDemo.deps.json
+C:\Repository\CSharp_Projects\ApiDemo\ApiDemo\bin\Debug\netcoreapp3.1\ApiDemo.runtimeconfig.json
+C:\Repository\CSharp_Projects\ApiDemo\ApiDemo\bin\Debug\netcoreapp3.1\ApiDemo.runtimeconfig.dev.json
+C:\Repository\CSharp_Projects\ApiDemo\ApiDemo\bin\Debug\netcoreapp3.1\ApiDemo.dll
+C:\Repository\CSharp_Projects\ApiDemo\ApiDemo\bin\Debug\netcoreapp3.1\ApiDemo.pdb
+C:\Repository\CSharp_Projects\ApiDemo\ApiDemo\obj\Debug\netcoreapp3.1\ApiDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\CSharp_Projects\ApiDemo\ApiDemo\obj\Debug\netcoreapp3.1\ApiDemo.AssemblyInfoInputs.cache
+C:\Repository\CSharp_Projects\ApiDemo\ApiDemo\obj\Debug\netcoreapp3.1\ApiDemo.AssemblyInfo.cs
+C:\Repository\CSharp_Projects\ApiDemo\ApiDemo\obj\Debug\netcoreapp3.1\ApiDemo.csproj.CoreCompileInputs.cache
+C:\Repository\CSharp_Projects\ApiDemo\ApiDemo\obj\Debug\netcoreapp3.1\ApiDemo.dll
+C:\Repository\CSharp_Projects\ApiDemo\ApiDemo\obj\Debug\netcoreapp3.1\ApiDemo.pdb
+C:\Repository\CSharp_Projects\ApiDemo\ApiDemo\obj\Debug\netcoreapp3.1\ApiDemo.genruntimeconfig.cache
+C:\Repository\CSharp_Projects\ApiDemo\ApiDemo\obj\Debug\netcoreapp3.1\ApiDemo.csprojAssemblyReference.cache
